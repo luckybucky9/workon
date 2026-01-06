@@ -20,14 +20,14 @@ This will:
 ## Installation
 
 ```bash
-git clone https://github.com/lbakshi/workon.git
+git clone https://github.com/luckybucky9/workon.git
 cd workon
 ./install.sh
 ```
 
 Or manually:
 ```bash
-curl -o ~/bin/workon https://raw.githubusercontent.com/lbakshi/workon/main/workon
+curl -o ~/bin/workon https://raw.githubusercontent.com/luckybucky9/workon/main/workon
 chmod +x ~/bin/workon
 ```
 
